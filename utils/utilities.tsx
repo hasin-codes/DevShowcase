@@ -60,7 +60,7 @@ export const backgrounds = [
 ];
 
 
-export const initialCode = ` /* 
+export const initialCode = ` /* To use the Tool
 Please select all the code, delete it, and paste your own code in this area. 
 Then, click on the 'Export PNG' button.
 */

@@ -60,7 +60,7 @@ export const backgrounds = [
 ];
 
 
-export const initialCode = `Write your Code here 
+export const initialCode = Please select all the code, delete it, and paste your own code in this area. Then, click on the 'Export' button.
 function stealthyRickroll() {
   const button = document.createElement('button');
   button.textContent = 'Click for a surprise!';
@@ -78,5 +78,4 @@ function stealthyRickroll() {
 }
 
 stealthyRickroll();
-
 `;

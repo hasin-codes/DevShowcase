@@ -60,11 +60,11 @@ export const backgrounds = [
 ];
 
 
-export const initialCode = /* 
+export const initialCode = ` /* 
 Please select all the code, delete it, and paste your own code in this area. 
 Then, click on the 'Export PNG' button.
 */
-`function stealthyRickroll() {
+function stealthyRickroll() {
   const button = document.createElement('button');
   button.textContent = 'Click for a surprise!';
 

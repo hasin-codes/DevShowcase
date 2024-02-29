@@ -59,6 +59,7 @@ export const backgrounds = [
   "linear-gradient(270deg,#514a9d,#24c6dc)",
 ];
 
+Write your Code here 
 export const initialCode = `function stealthyRickroll() {
   const button = document.createElement('button');
   button.textContent = 'Click for a surprise!';

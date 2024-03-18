@@ -28,11 +28,7 @@ A showcase of my development skills and projects.
 2. **Open in your browser:**
    Go to http://localhost:3000 in your web browser.
 
-## Project Structure
 
-* `src/` : Contains the source code for your project components and pages.
-* `public/`: Contains static assets like images and the `index.html` entry point.
-* `package.json`: Lists project dependencies and scripts.
 
 ## Available Scripts
 

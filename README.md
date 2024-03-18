@@ -3,7 +3,7 @@
 ```markdown
 # DevShowcase 
 
-A showcase of my development skills and projects.
+Ditch the text walls and complex diagrams. With DevShowcase, your code speaks for itself - beautifully.
 
 ## Installation
 
